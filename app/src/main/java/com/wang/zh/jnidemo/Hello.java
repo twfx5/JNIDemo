@@ -6,5 +6,5 @@ package com.wang.zh.jnidemo;
 
 public class Hello {
 
-    public native String sayHello();
+//    public native String sayHello();
 }

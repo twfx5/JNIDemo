@@ -32,6 +32,6 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE    := Hello
 
-LOCAL_SRC_FILES := Hello
+LOCAL_SRC_FILES := com_wang_zh_jnidemo_MainActivity.h
 
 include $(BUILD_SHARED_LIBRARY)
